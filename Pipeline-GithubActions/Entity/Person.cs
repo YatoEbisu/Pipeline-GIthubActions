@@ -17,3 +17,4 @@ namespace Pipeline_GithubActions.Entity
         public int Age { get; set; }
     }
 }
+
